@@ -15,38 +15,34 @@
 						<div class="carousel-inner">
 							<div class="item active">
 								<div class="col-sm-6">
-									<h1><span>#</span>SHOP</h1>
-									<h2>iPhone X</h2>
-									<p>Настолько впечатляющим дисплеем, чтобы вы забывали о самом физическом устройстве. И настолько умным устройством, чтобы оно реагировало на прикосновение, слово и даже взгляд. iPhone X воплощает мечту в реальность.</p>
-									<button type="button" class="btn btn-default get">Подробние</button>
+									<h1><span>Book</span>SHOP</h1>
+									<p> «Это – Ваша библиотека»</p>
 								</div>
 								<div class="col-sm-6">
-                                                                    <img src="images/apple-iphone-x-designboom-500.jpg" class="girl img-responsive" alt="" />
+                                                                    <img src="images/baner1.jpg" class="girl img-responsive" alt="" />
 									
 								</div>
 							</div>
 							<div class="item">
 								<div class="col-sm-6">
-									<h1><span>#</span>SHOP</h1>
-									<h2>MSI Gaming X1</h2>
-									<p>Настолько крутой, что ты забудешь про все на свете. </p>
-									<button type="button" class="btn btn-default get">Подробние</button>
+									<h1><span>Book</span>SHOP</h1>
+									
 								</div>
 								<div class="col-sm-6">
-                                                                    <img src="images/msi.jpg" class="girl img-responsive" alt="" />
+                                                                    <img src="images/baner2.jpg" class="girl img-responsive" alt="" />
 								</div>
 							</div>
 							
-							<div class="item">
+<!--							<div class="item">
 								<div class="col-sm-6">
-									<h1><span>#</span>SHOP</h1>
+									<h1><span>Book</span>SHOP</h1>
 									<h2>Бытовая техника от лучших производителей</h2>
 									<button type="button" class="btn btn-default get">Подробние</button>
 								</div>
 								<div class="col-sm-6">
                                                                     <img src="images/bittech.jpg" class="girl img-responsive" alt="" />
 								</div>
-							</div>
+							</div>-->
 							
 						</div>
 						

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Домой|#Shop</title>
+    <title>Домой|BookShop</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -89,7 +89,7 @@
 							<ul class="nav navbar-nav collapse navbar-collapse">
 								<li><a href="/" class="active">Домой</a></li>
                                                                 <li><a href="/contacts">Контакты</a></li>
-                                                                <li><a href="">О нас</a></li>
+                                                                <li><a href="#">О нас</a></li>
                                                         </ul>
 						</div>
 					</div>
@@ -122,7 +122,7 @@
 						<div class="single-widget">
 							<h2>Информация</h2>
 							<ul class="nav nav-pills nav-stacked">
-								<li><a href="/contacts">О Нас</a></li>
+								<li><a href="#">О Нас</a></li>
                                                                 <li><a href="mail.blade.php">Контакты</a></li>
 							</ul>
 						</div>
@@ -146,7 +146,7 @@
 		
 		<div class="footer-bottom">
 			<div class="container copyrigh">
-				<p>&copy; 2017 #Shop.</p>
+				<p>&copy; 2017 BookShop.</p>
 			</div>
 		</div>
 		
