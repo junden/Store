@@ -17,7 +17,7 @@
 										<div class="productinfo text-center ">
                                                                                     
 											<img src="{{$good->image}}" alt="" />
-											<h2>{{$good->price}}</h2>
+											<h2>{{$good->price.' грн'}}</h2>
 											<p>{{$good->name}}</p>
                                                                                         <a href="{{route('good.addToCart',['id'=>$good->id])}}" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Добавить в корзину</a>
                                                                                         
